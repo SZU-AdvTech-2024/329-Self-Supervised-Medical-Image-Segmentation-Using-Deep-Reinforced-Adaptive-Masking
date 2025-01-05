@@ -1,0 +1,7 @@
+@article{REPO329,
+    author = "Liu, Yunxin and Xu, Gang and Lukasiewicz, Thomas and Xu, Zhenghua",
+    journal = "IEEE Transactions on Medical Imaging",
+    note = "In press.",
+    title = "{Self-Supervised Medical Image Segmentation Using Deep Reinforced Adaptive Masking}",
+    year = "2024"
+}
